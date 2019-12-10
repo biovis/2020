@@ -2,7 +2,7 @@
 
 The , version of the BioVis website.
 
-It uses [Jekyll](http://jekyllrb.com/) as CMS and it is a copy of the 2018 version of the website.
+It uses [Jekyll](http://jekyllrb.com/) as CMS and it is a copy of the 2019 version of the website.
 
 This is compiled by Caleydo Jenkins and pushed to the [Biovis , main website repo](https://github.com/biovis/,).
 
