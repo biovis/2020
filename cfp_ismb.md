@@ -6,10 +6,10 @@ back_title: ISMB
 back_url: ismb
 ---
 
-## Call for Participation: BioVis@ISMB/ECCB 2019
-**Community of Special Interest (COSI) event at [ISMB/ECCB 2019](https://www.iscb.org/ismbeccb2019)**  
-**July 22, 2019**  
-**Basel, Switzerland**
+# Call for Participation: BioVis@ISMB 2020
+**Community of Special Interest (COSI) event at [ISMB 2020](https://www.iscb.org/ismb2020https://www.iscb.org/ismb2020)**  
+**July 12-16, 2020**  
+**Montréal, Canada**
 
 
 ## Aims and Scope
@@ -22,7 +22,7 @@ We invite submissions of original research articles as well as poster submission
 
 ## Symposium Format
 
-The symposium will be a one-day single-track event at [ISMB/ECCB](https://www.iscb.org/ismbeccb2019). It will feature keynotes and invited talks, paper sessions, highlight talks, and posters/demos. Primers will also be given to introduce key topics in visualization research. . 
+The symposium will be a one-day single-track event at [ISMB](https://www.iscb.org/ismb2020). It will feature keynotes and invited talks, paper sessions, highlight talks, and posters/demos. Primers will also be given to introduce key topics in visualization research.  
 
 ## Topics
 
@@ -43,18 +43,19 @@ We invite contributions on all aspects of data visualization in biology, from mo
  * Usability of visualization by biologists
  * Biological atlases and metadata
  * Processes for interdisciplinary collaboration between biology and visualization.
+ * Integrating visualization and machine learning for biological analysis
 
 ## Submission Types and Criteria
 
 There are several ways participants can contribute to the BioVis program:
 
-### 1. ISMB/ECCB Proceedings - *Submission Deadline: January 28, 2019*
+### 1. ISMB Proceedings - *Submission Deadline: January 30, 2020*
 
-Novel, unpublished work can be submitted as a paper to the ISMB/ECCB Proceedings. If accepted, manuscripts will be published in the OUP Journal Bioinformatics. Authors of accepted papers will be required to present their work at the symposium in a talk. Authors of rejected papers will be invited to submit a poster. 
+Novel, unpublished work can be submitted as a paper to the ISMB Proceedings. If accepted, manuscripts will be published in the OUP Journal Bioinformatics. Authors of accepted papers will be required to present their work at the symposium in a talk. Authors of rejected papers will be invited to submit a poster. 
 
 #### Submission Guidelines
 
-Authors are required to submit a full paper by January 28, 2019 at the [BioVis submission site](https://www.iscb.org/ismbeccb2019-submit/proceedings), and must adhere to the submission guidelines outlined on that site.
+Authors are required to submit a full paper by January 30, 2020 through the [BioVis submission site](https://www.iscb.org/ismb2020-submit/proceedings), and must adhere to the submission guidelines also outlined on [the same page](https://www.iscb.org/ismb2020-submit/proceedings).
 
 **IMPORTANT: During submission please select the general subject of your submissions (the “AREA”), and then make sure to specify BioVis as the “TOPIC” of your submission to ensure your manuscript is assigned to our COSI.**
 
@@ -62,39 +63,40 @@ We encourage the use of digital video to enhance paper submissions, particularly
 
 
 
-### 2. Talks - *Submission Deadline: April 11, 2019*
+### 2. Talks - *Submission Deadline: Early April, 2020*
 
-Participants are encouraged to submit short abstracts describing their recently published work related to biological data visualization or extended abstracts concerning unpublished work.  Submissions will be reviewed by the chairs and by external reviewers. If accepted, participants are required to present their work in a talk at the symposium. Authors of rejected talks will be invited to submit a poster.
+Participants are encouraged to submit short abstracts describing their recently published work related to biological data visualization or extended abstracts discussing unpublished work.  Submissions will be reviewed by the chairs and by external reviewers. If accepted, participants are required to present their work in a talk at the symposium. Authors of rejected talks will be invited to submit a poster.
 
 #### Submission Guidelines
 
-Published work: Authors are required to submit a short abstract (250 words) by April 11, 2019. Summaries should include a concise description of the work and may include descriptive figures. The previously published paper **must** be submitted along with the summary, unless the paper is open access.
+Published work: Authors are required to submit a short abstract (250 words) by early April, 2020. Abstracts should include a concise description of the work and may include descriptive figures. The previously published paper **must** be submitted along with the abstract, unless the paper is open access.
 
-Unpublished work: Authors are required to submit an extended abstract (1500 words) by April 11, 2019. The text should include a concise description of the work and have descriptive figures. 
+Unpublished work: Authors are required to submit an extended abstract (1500 words) by early April, 2020.  The text should include a concise description of the work and have descriptive figures. 
 
-### 3. Posters and demos - *Submission Deadline: {{ site.ismb_poster_submission_deadline }}*
+### 3. Posters and demos - *Submission Deadline: Early April, 2020*
 
 We invite participants to submit work in progress and preliminary results, previously published work from other venues, or visualization challenges to be presented as a poster and/or interactive demo. A selection of these will be invited to give a short talk during the conference.
 
 #### Submission Guidelines
 
-Authors are required to submit a short abstract (250 words) and a supporting figure by {{ site.ismb_poster_submission_deadline }}. Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access.
+Authors are required to submit a short abstract (250 words) and a supporting figure by early April, 2020.  Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access, where instead a direct link to the open access version should be provided.
 
 Poster preparation instructions will be e-mailed to authors of accepted submissions.
 
 
 ## Important Dates
 
-See [ISMB Key Dates](http://www.iscb.org/ismbeccb2019-keydates) for full details.
+See [ISMB Key Dates](http://www.iscb.org/ismb2020-keydates) for full details.
 
-### Deadlines and Notifications for ISMB/ECCB Proceedings
+### Deadlines and Notifications for ISMB Proceedings
 
-Submission Deadline : January 28, 2019  
-Conditional Acceptance Notification: March 6, 2019  
-Revision Deadline: March 22, 2019  
-Final Acceptance Notification: April 8, 2019  
+Submission Deadline : January 30, 2020  
+Conditional Acceptance Notification: March 4, 2020  
+Revision Deadline: March 20, 2020  
+Final Acceptance Notification: April 6, 2020  
 
-### Deadlines for Talks and Posters/Demos
+### Deadlines and Notifications for Talks and Posters/Demos
 
-Abstract Submission Deadline: April 11, 2019<br/>
-Poster Submission Deadline: {{ site.ismb_poster_submission_deadline }}
+Submission Deadline: Early April, 2020  
+Acceptance Notification: Early May, 2020
+
