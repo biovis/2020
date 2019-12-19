@@ -17,7 +17,7 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">people</i>
      <h3>Call for Participation</h3>
-     <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/cfp_ismb" type="submit" name="action">View CfP</a>
+     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/cfp_ismb" type="submit" name="action">View CfP</a>
     </div>
 
     <div class="col m4 s12 event-page-menu-block">
