@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Participation at the BioVis@ISMB 2019
+title: Call for Participation at the BioVis@ISMB 2020
 permalink: /cfp_ismb/
 back_title: ISMB
 back_url: ismb

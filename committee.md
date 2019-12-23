@@ -6,11 +6,11 @@ menu: main
 ## Organizing Committee for BioVis {{$site.year}}
 
 ### General chairs
-[Cagatay Turkay](https://www.city.ac.uk/people/academics/cagatay-turkay), City University of London, UK<br />
+[Cagatay Turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/), University of Warwick, UK<br />
 [Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
 
 ### Website chair
-[Jan Byška](http://www.uib.no/personer/Jan.Byska/), University of Bergen, Norway<br/>
+[Jan Byška](http://www.uib.no/personer/Jan.Byska/), Masaryk University, Czech Republic and University of Bergen, Norway<br/>
 
 ### Publicity chair
 [Fritz Lekschas](https://compbio.hms.harvard.edu/people/fritz-lekschas/), Harvard University, USA<br/>
@@ -20,13 +20,9 @@ menu: main
 
 ## BioVis COSI @ ISMB {{$site.year}}
 
-### Paper chairs
-
-### Highlights chairs
+### Abstracts Chairs
 [Thomas Höllt](https://www.thomashollt.com), Leiden University Medical Center, The Netherlands<br />
 [Michael Krone](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/big-data-visual-analytics-in-life-sciences/group-members/jun-prof-dr-michael-krone/), University of Tübingen, Germany<br/>
-
-### Poster chair
 [Danielle Albers](http://danielleszafir.com/) University of Colorado at Boulder, USA<br />
 
 ### ISMB Liaison Chairs
