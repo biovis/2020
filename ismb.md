@@ -48,7 +48,7 @@ permalink: /ismb/
             <h4 id="ismbImportantDates">Important Dates</h4>
              <p><strong>ISMB COSI date:</strong>  {{ site.ISMBconferencedate }} </p>
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
-			<p><strong>Abstract Submission Deadline:</strong> {{ site.ismb_abstract_submission_deadline}}</p>  
+			<p><strong>Talk Submission Deadline:</strong> {{ site.ismb_abstract_submission_deadline}}</p>  
             <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
 			<p><a href="http://www.iscb.org/ismb2020-keydates">See ISMB Key Dates for more details</a></p>
       </div>

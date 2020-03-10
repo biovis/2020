@@ -95,8 +95,9 @@ Final Acceptance Notification: April 6, 2020
 
 ### Deadlines and Notifications for Talks and Posters/Demos
 
-Talks Deadline: April 2, 2020 <br/>
-Talks Acceptance Notifications: April 30 <br/>
-Posters/Demos: May 14, 2020 <br/>
+Talk Submission Deadline: April 2, 2020 <br/>
+Talk Acceptance Notifications: April 30, 2020 <br/>
+
+Posters/Demos Submission Deadline: May 14, 2020 <br/>
 Posters/Demos Acceptance Notification: May 21, 2020
 
