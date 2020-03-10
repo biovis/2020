@@ -2,7 +2,7 @@
 layout: map_page
 logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
-location: July, Montreal, Canada
+location: July 15, Montreal, Canada
 main_venue_rln: Co-located
 main_venue: ISMB 2020
 main_venue_url: https://www.iscb.org/ismb2020
@@ -50,7 +50,7 @@ permalink: /ismb/
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
 			<p><strong>Abstract Submission Deadline:</strong> {{ site.ismb_abstract_submission_deadline}}</p>  
             <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-			<p><a href="https://www.iscb.org/ismbeccb2019-keydates">See ISMB Key Dates for more details</a></p>
+			<p><a href="http://www.iscb.org/ismb2020-keydates">See ISMB Key Dates for more details</a></p>
       </div>
 
 
