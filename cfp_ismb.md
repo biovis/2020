@@ -61,23 +61,23 @@ Authors are required to submit a full paper by January 30, 2020 through the [Bio
 
 We encourage the use of digital video to enhance paper submissions, particularly if part or all of the work addresses interactive techniques. However, please note that OUP does not support videos as supplementary materials, so you will have to host the video elsewhere (e.g., YouTube).
 
-### 2. Talks - *Submission Deadline: April 2, 2020*
+### 2. Talks - *Submission Deadline: April 16, 2020*
 
 Participants are encouraged to submit short abstracts describing their recently published work related to biological data visualization or extended abstracts discussing unpublished work.  Submissions will be reviewed by the chairs and by external reviewers. If accepted, participants are required to present their work in a talk at the symposium. Authors of rejected talks will be invited to submit a poster.
 
 #### Submission Guidelines
 
-Published work: Authors are required to submit a short abstract (250 words) by April 2, 2020. Abstracts should include a concise description of the work and may include descriptive figures. The previously published paper **must** be submitted along with the abstract, unless the paper is open access.
+Published work: Authors are required to submit a short abstract (250 words) by April 16, 2020. Abstracts should include a concise description of the work and may include descriptive figures. The previously published paper **must** be submitted along with the abstract, unless the paper is open access.
 
-Unpublished work: Authors are required to submit an extended abstract (1500 words) by April 2, 2020.  The text should include a concise description of the work and have descriptive figures. 
+Unpublished work: Authors are required to submit an extended abstract (1500 words) by April 16, 2020.  The text should include a concise description of the work and have descriptive figures. 
 
-### 3. Posters and demos - *Submission Deadline: May 14, 2020*
+### 3. Posters and demos - *Submission Deadline: May 28, 2020*
 
 We invite participants to submit work in progress and preliminary results, previously published work from other venues, or visualization challenges to be presented as a poster and/or interactive demo. A selection of these will be invited to give a short talk during the conference.
 
 #### Submission Guidelines
 
-Authors are required to submit a short abstract (250 words) and a supporting figure by May 14, 2020.  Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access, where instead a direct link to the open access version should be provided.
+Authors are required to submit a short abstract (250 words) and a supporting figure by May 28, 2020.  Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access, where instead a direct link to the open access version should be provided.
 
 Poster preparation instructions will be e-mailed to authors of accepted submissions.
 
@@ -95,9 +95,9 @@ Final Acceptance Notification: April 6, 2020
 
 ### Deadlines and Notifications for Talks and Posters/Demos
 
-Talk Submission Deadline: April 2, 2020 <br/>
-Talk Acceptance Notifications: April 30, 2020 <br/>
+Talk Submission Deadline: April 16, 2020 <br/>
+Talk Acceptance Notifications: May 14, 2020 <br/>
 
-Posters/Demos Submission Deadline: May 14, 2020 <br/>
-Posters/Demos Acceptance Notification: May 21, 2020
+Posters/Demos Submission Deadline: May 28, 2020 <br/>
+Posters/Demos Acceptance Notification: June 4, 2020
 
