@@ -2,7 +2,7 @@
 layout: page
 title: BioVis@IEEE Challenges Workshop
 permalink: /biovisChallenges_vis/
-back_title: IEEE VIS 2019
+back_title: IEEE VIS 2020
 back_url: ieeevis
 ---
 
