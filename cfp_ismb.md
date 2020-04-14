@@ -11,6 +11,8 @@ back_url: ismb
 **July 15, 2020**  
 **Montréal, Canada**
 
+**BioVis@ISMB2020 will be held as a virtual event along with the wider ISMB2020 conference, further details can be found on ISMB 2020 webpage [here](https://www.iscb.org/ismb2020).**
+
 
 ## Aims and Scope
 
