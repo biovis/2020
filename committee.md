@@ -30,7 +30,8 @@ menu: main
 ## BioVis Workshop @ IEEE VIS {{$site.year}}
 
 ### Chairs
-[Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), University of British Columbia, Canada<br />
+[Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), Tableau Research, USA<br />
+[Carolina Nobre](https://vdl.sci.utah.edu/team/nobre/), Harvard School of Engineering and Applied Sciences
 
 ## Steering Committee
 [Jessie Kennedy](http://www.iidi.napier.ac.uk/c/people/peopleid/41), Edinburgh Napier University, UK<br />
