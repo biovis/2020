@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Call for Participation
-date: 2020-12-19
+date: 2019-12-19
 event: ismb
 categories: ismb
 back_title: BioVis@ISMB
