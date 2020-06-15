@@ -11,6 +11,8 @@ back_url: ismb
 
 ### July 15, 2020
 
+#### Please note that all the times listed here are in **Eastern Daylight Time**.
+
 <h1> Program </h1>
 
 {% assign prevSession = "" %}
