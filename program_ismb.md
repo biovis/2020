@@ -7,30 +7,75 @@ back_url: ismb
 ---
 
 
-## BioVis@ISMB 2019 Program
+## BioVis@ISMB 2020 Program
 
-### July 22, 2019
+### July 15, 2020
 
-#### LOCATION: Boston 1/2 (Ground Floor)
+<h1> Program </h1>
 
+{% assign prevSession = "" %}
+{% for paper in site.data.program2020 %}
+  
+  {% if prevSession != paper.session %}
+	{% for next in (forloop.index0..site.data.program2020.size) %}
+	        {% if site.data.program2020[next].session == paper.session %}
+		
+		{% assign end = site.data.program2020[next].end%}
+		{% endif %}
+   	{% endfor %}
+
+  <hr class="style-one" />
+  <div>
+    <div class="sumTime2"> {{paper.start}} - {{end}}</div>
+    <div class="sumContent">{{paper.session}}</div>
+  </div>
+  
+  
+  {% endif %}
+
+  {% if paper.title != nil %}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+	<div class="ttile" style="padding-left:120px; padding-top:5px;">
+        <strong>
+	 {% if paper.type != nil %}[{{paper.type}}]{% endif %}
+	    {{paper.title}}
+        </strong>
+	</div>
+	  {% if paper.presenter != nil %}
+		<div class="sumDetail" style="padding-left:120px;"> <em>Presenter:</em> {{paper.presenter}}</div>
+	  {% endif %}
+          {% if paper.authors != nil %}
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+	  {% endif %}
+  </div>
+  {% endif %}
+  
+  {% assign prevSession = paper.session %}
+  
+{% endfor %}
+
+<hr class="style-one">
 
 
 ## Invited Speakers
 
 <div class="talk">
-    <div class="ttitle">Physical, Contextual, and Full of Value? What do novel directions in Visualization teach us about judging the value of visualization?
+    <div class="ttitle">Visualization and Human-AI collaboration for biomedical tasks
 </div>
-    <div><span class="tspeaker"><a href="https://petra.isenberg.cc/wiki/pmwiki.php">Petra Isenberg</a></span>, <span> AVIZ/INRIA </span></div>
+    <div><span class="tspeaker"><a href="http://hendrik.strobelt.com">Hendrik Stobelt</a></span>, <span> IBM Research & MIT </span></div>
 
-    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/petra-isenberg.png" style="width: 250px;" alt="Petra Isenberg"></div>
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/stobelt.png" style="width: 250px;" alt="Hendrik Stobelt"></div>
 
     <div class="tbioabstract"> 
 	
 	<!--<div class="tabstract"><b>Abstract:</b>TBA</div>-->
 	
 	 <div class="tbio"><b>Bio:</b>
-	Petra Isenberg is a research scientist (CR) at Inria, Saclay, France in the Aviz research group. Prior to joining Inria, she received her PhD from the University of Calgary in 2010 working with Sheelagh Carpendale on collaborative information visualization. Petra also holds a Diplom-engineer degree in Computational Visualistics from the University of Magdeburg. Her main research areas are information visualization and visual analytics with a focus on off-desktop data analysis, interaction, and evaluation. She is particularly interested in exploring how people can most effectively work together when analyzing large and complex data sets on novel display technology such as small touch-screens, wall displays, or tabletops.  Petra is associate editor-in-chief at IEEE CG&A, associate editor of the IEEE Transactions on Visualization and Computer Graphics, has served on many organizing committee roles at IEEE VIS including as papers co-chair for Information Visualization (InfoVis), and has been the co-chair of the biennial Beliv workshop since 2012.  
-	</div>
+	Hendrik Strobelt is the Explainability Lead at the MIT-IBM Watson AI Lab and Research Scientist at IBM Research. His recent research is on visualization for and human collaboration with AI models to foster explainability and intuition. The majority of his work is for NLP models and generative models while he is advocating to utilize a mix of data modalities to solve real-world problems. His work is applied to tasks in machine learning, in NLP, in the biomedical domain, and chemistry.
+
+Hendrik joined IBM in 2017 after postdoctoral positions at Harvard SEAS and NYU Tandon. He received a Ph.D. (Dr. rer. nat.) from the University of Konstanz in computer science (Visualization) and holds an MSc (Diplom) in computer science from TU Dresden. He received multiple best paper/honorable mention awards at EuroVis, BioVis, VAST, and ACL Demo. He received the Lohrmann medal from TU Dresden as the highest student honor. Hendrik has served in program committees and organization committees for IEEE VIS, BioVis, EuroVis. He was the virtual chair for ICLR 2020. Hendrik is affiliated as visiting researcher with MIT CSAIL.
+</div>
 	
 	<br/><br/><br/>
     </div>
@@ -38,10 +83,10 @@ back_url: ismb
 
 <a name="sheelagh"></a>
 <div class="talk">
-    <div class="ttitle">Visualisation as a Partner to AI and Machine Learning in Drug Discovery</div>
-    <div><span class="tspeaker"><a href="https://scholar.google.com/citations?user=jWcQDOsAAAAJ&hl=en">Lindsay Edwards</a></span>, <span> GSK </span></div>
+    <div class="ttitle">Machine Learning for Drug Repurposing</div>
+    <div><span class="tspeaker"><a href="https://dbmi.hms.harvard.edu/people/marinka-zitnik">Marinka Zitnik</a></span>, <span> Harvard Medical School </span></div>
 
-    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/lindsay-edwards.png " style="width: 250px;" alt="lindsay-edwards">
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/marinka-zitnik.jpg" style="width: 250px;" alt="Marinka Zitnik">
     </div>
 
     <div class="tbioabstract">
@@ -49,7 +94,14 @@ back_url: ismb
         <!--<div class="tabstract"><b>Abstract:</b>TBA</div>-->
 
        <div class="tbio"><b>Bio:</b>
-       Lindsay Edwards is UK Head of Artificial Intelligence and Machine Learning (AI/ML) for Glaxo Smith Kline (GSK)’s Pharma R&D, having previously led the Digital, Data & Analytics Unit globally for GSK’s Respiratory division. Alongside his role at GSK, he is also a Fellow of the Royal Society of Biology and a member of the scientific strategy board of the Xtreme Everest Project. Originally a specialist in systems biology, he joined GSK in 2014 from a Lectureship in Physiology at King’s College London, and has held positions in both Australia and the UK. With a background that spans human physiology and biochemistry, metabolomics, computational biology and data science, he has extensive experience of applying novel analytical methods (including machine learning) to biological datasets. His interests currently centre on the use of contemporary analytical tools (including AI) to bring transformational change to drug discovery.
+       Marinka Zitnik is an Assistant Professor of Biomedical Informatics at Harvard Medical School. She is a computer scientist studying applied machine learning with a focus on challenges brought forward by data in science, medicine, and health.
+
+Dr. Zitnik joined Harvard Medical School in December 2019. Before that, she was a postdoctoral scholar in Computer Science at Stanford University working with Jure Leskovec. She was also a member of the Chan Zuckerberg Biohub at Stanford. She received Ph.D. in Computer Science from University of Ljubljana in 2015 while also researching at Imperial College London, University of Toronto, Baylor College of Medicine, and Stanford University. She received my bachelor’s degree in 2012 double majoring in computer science and mathematics.
+
+Her algorithms and methods have had a tangible impact, which has garnered interests of government, academic, and industry researchers and has put new tools in the hands of practitioners. Some of her methods are used by major biomedical institutions, including Baylor College of Medicine, Karolinska Institute, Stanford Medical School, and Massachusetts General Hospital.
+
+Her work received several best paper, poster, and research awards from the International Society for Computational Biology. She has recently been named a Rising Star in EECS by MIT and also a Next Generation in Biomedicine by The Broad Institute of Harvard and MIT, being the only young scientist who received such recognition in both EECS and Biomedicine.
+
         </div>
 		<br/><br/><br/><br/><br/>
     </div>
@@ -57,240 +109,3 @@ back_url: ismb
 
 <br>
 <br>
-
-<!--- WELCOME -->
-
-<h1> Program </h1>
-<div>
-    <div class="sumTime2">10:15 - 10:20</div>
-    <div>
-        <div class="sumContent">BioVis Welcome</div>
-        <div class="sumDetail" style="padding-left:120px;"><i>Jim Procter</i></div>
-    </div>
-</div>
-
-<hr class="style-one">
-
-
-
-<!-- SESSION 1,2,3  : --->
-
-<div>
-    <div class="sumTime2"> 10:20 - 12:40</div>
-    <div>
-        <div class="sumContent">Tools and Techniques</div>
-    </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
-    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
-</div>
-
-{% for paper in site.data.program2019%}
-{% if paper.session == "session1"%}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-      {% if paper.doi != nil %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
-      </div>
-      {% else %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
-      </div>
-      {% endif %}
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-  </div>
-{% endif %}
-{% endfor %}
-
-
-<!-- Poster Session Talk II-->
-<div>
-        <div class="sumContent" style="font-size:1.15em">Poster Talks - Tools & Techniques I</div>
-</div>
-{% for paper in site.data.program2019%}
-{% if paper.session == "session2"%}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-      {% if paper.doi != nil %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
-      </div>
-      {% else %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
-      </div>
-      {% endif %}
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-  </div>
-{% endif %}
-{% endfor %}
-
-<div>
-        <div class="sumContent"  style="font-size:1.15em">Poster Talks - Applications I </div>
-</div>
-{% for paper in site.data.program2019%}
-{% if paper.session == "session3"%}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-      {% if paper.doi != nil %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
-      </div>
-      {% else %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
-      </div>
-      {% endif %}
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-  </div>
-{% endif %}
-{% endfor %}
-
-
-<!-- Lunch Break -->
-<hr>
-<div>
-  <div class="sumTime" style="padding-top:5px;"> 12:40 - 14:00 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em>Lunch break </em></div>
-</div>  
-<hr>
-
-<!-- SESSION 4 -->
-
-<div>
-    <div class="sumTime2">14:00 - 16:00</div>
-    <div>
-        <div class="sumContent">Afternoon</div>
-    </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
-     <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
-</div>
-
-{% for paper in site.data.program2019%}
-{% if paper.session == "session4"%}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-      {% if paper.doi != nil %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
-      </div>
-      {% else %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
-      </div>
-      {% endif %}
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-  </div>
-{% endif %}
-{% endfor %}
-
-<!-- Coffee Break-->
-<hr>
-<div>
-  <div class="sumTime" style="padding-top:5px;"> 16:00 - 16:40 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em>Coffee Break </em></div>
-</div>  
-<hr>
-
-<!-- SESSION 5,6,7 -->
-
-<div>
-    <div class="sumTime2">16:40 - 17:50</div>
-    <div>
-        <div class="sumContent">Afternoon II</div>
-    </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
-     <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
-</div>
-
-{% for paper in site.data.program2019%}
-{% if paper.session == "session5"%}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-      {% if paper.doi != nil %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
-      </div>
-      {% else %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
-      </div>
-      {% endif %}
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-  </div>
-{% endif %}
-{% endfor %}
-
-
-<!-- Poster Session Talk II-->
-<div>
-        <div class="sumContent" style="font-size:1.15em">Poster Talks - Tools & Techniques II</div>
-</div>
-{% for paper in site.data.program2019%}
-{% if paper.session == "session6"%}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-      {% if paper.doi != nil %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
-      </div>
-      {% else %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
-      </div>
-      {% endif %}
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-  </div>
-{% endif %}
-{% endfor %}
-
-<div>
-        <div class="sumContent"  style="font-size:1.15em">Poster Talks - Applications II</div>
-</div>
-{% for paper in site.data.program2019%}
-{% if paper.session == "session7"%}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-      {% if paper.doi != nil %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
-      </div>
-      {% else %}
-      <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
-      </div>
-      {% endif %}
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-  </div>
-{% endif %}
-{% endfor %}
-
-<!-- CLOSING REMARKS AND POSTER SESSION -->
-<hr class="style-one">
-<div>
-    <div class="sumTime2">17:50 - 18:00</div>
-    <div>
-        <div class="sumContent">Closing Remarks</div>
-          <div class="sumDetail" style="padding-left:120px;"><i>Ana Crisan & Michel Westenberg</i></div>
-    </div>
-</div>
-
-<hr class="style-one">
-
-
-<div>
-    <div class="sumTime2">18:00 - 20:00</div>
-    <div>
-        <div class="sumContent">Poster Session</div>
-       
-		<div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismb2019/posters.php?track=BioVis&session=B">BioVis posters</a></div>
-		
-    </div>
-</div>
