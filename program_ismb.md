@@ -43,7 +43,7 @@ back_url: ismb
         </strong>
 	</div>
 	  {% if paper.presenter != nil %}
-		<div class="sumDetail" style="padding-left:120px;"> <em>Presenter:</em> {{paper.presenter}}</div>
+		<div class="sumDetail" style="padding-left:120px;"> <em>Speaker:</em> {{paper.presenter}}</div>
 	  {% endif %}
           {% if paper.authors != nil %}
 		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
