@@ -18,9 +18,10 @@ back_url: ismb
   
   {% if prevSession != paper.session %}
 	{% for next in (forloop.index0..site.data.program2020.size) %}
-	        {% if site.data.program2020[next].session == paper.session %}
-		
-		{% assign end = site.data.program2020[next].end%}
+	    {% if site.data.program2020[next].session == paper.session %}
+			{% assign end = site.data.program2020[next].end%}
+		{% else %}
+			{% break %}
 		{% endif %}
    	{% endfor %}
 

@@ -3,8 +3,8 @@ id,start,end,session,title,authors,presenter
 ,7:45,9:15,Poster Viewing,Scaling Visual Analytics of Clinical Event Sequence Data through Interactive State Identification,"Qianwen Wang, Theresa Harbig, Sabrina Nusrat, Tali Mazor, Ethan Cerami and Nils Gehlenborg",
 ,7:45,9:15,Poster Viewing,Cistrome Explorer: Web-based Interactive Visualization Tool for Exploring Epigenomics Data with Associated Metadata,"Sehi L'Yi, Mark Keller, Chen-Hao Chen, Xiaole Shirley Liu, Cliff Meyer and Nils Gehlenborg",
 ,7:45,9:15,Poster Viewing,Modular Visualization of Spatial Single-Cell Omics Data,"Trevor Manz, Ilan Gold, Chuck McCallum, Mark Keller, Peter Kharchenko and Nils Gehlenborg",
-,10:40,10:50,BioVis Keynote,BioVis Opening,,
-,10:50,11:40,BioVis Keynote,Visualization and Human-AI collaboration for biomedical tasks,,Hendrik Strobelt
+,10:40,10:50,BioVis Opening & Keynote,BioVis Opening,,
+,10:50,11:40,BioVis Opening & Keynote,Visualization and Human-AI collaboration for biomedical tasks,,Hendrik Strobelt
 ,11:40,12:00,Break,,,
 543,12:00,12:10,Single Cell/High Dimensional Data,bio_embeddings: python pipeline for fast visualization of protein features extracted by language models,"Christian Dallago, Michael Heinzinger, Tobias Olenyi, Ahmed Elnaggar and Burkhard Rost",
 301,12:10,12:20,Single Cell/High Dimensional Data,Grid-Constrained Dimensionality-Reduction for Single-Cell RNA-Seq Summarization,Jon Hill and Di Feng,
