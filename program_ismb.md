@@ -11,56 +11,6 @@ back_url: ismb
 
 ### July 15, 2020
 
-#### Please note that all the times listed here are in **Eastern Daylight Time**.
-
-<h1> Program </h1>
-
-{% assign prevSession = "" %}
-{% for paper in site.data.program2020 %}
-  
-  {% if prevSession != paper.session %}
-	{% for next in (forloop.index0..site.data.program2020.size) %}
-	    {% if site.data.program2020[next].session == paper.session %}
-			{% assign end = site.data.program2020[next].end%}
-		{% else %}
-			{% break %}
-		{% endif %}
-   	{% endfor %}
-
-  <hr class="style-one" />
-  <div>
-    <div class="sumTime2"> {{paper.start}} - {{end}}</div>
-    <div class="sumContent">{{paper.session}}</div>
-  </div>
-  
-  
-  {% endif %}
-
-  {% if paper.title != nil %}
-  <div>
-      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
-	<div class="ttile" style="padding-left:120px; padding-top:5px;">
-        <strong>
-	 {% if paper.type != nil %}[{{paper.type}}]{% endif %}
-	    {{paper.title}}
-        </strong>
-	</div>
-	  {% if paper.presenter != nil %}
-		<div class="sumDetail" style="padding-left:120px;"> <em>Speaker:</em> {{paper.presenter}}</div>
-	  {% endif %}
-          {% if paper.authors != nil %}
-		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
-	  {% endif %}
-  </div>
-  {% endif %}
-  
-  {% assign prevSession = paper.session %}
-  
-{% endfor %}
-
-<hr class="style-one">
-
-
 ## Invited Speakers
 
 <div class="talk">
@@ -110,5 +60,55 @@ Her work received several best paper, poster, and research awards from the Inter
     </div>
 </div>
 
-<br>
-<br>
+## Program
+
+#### Please note that all the times listed here are in **Eastern Daylight Time**.
+
+<br/>
+
+{% assign prevSession = "" %}
+{% for paper in site.data.program2020 %}
+  
+  {% if prevSession != paper.session %}
+	{% for next in (forloop.index0..site.data.program2020.size) %}
+	    {% if site.data.program2020[next].session == paper.session %}
+			{% assign end = site.data.program2020[next].end%}
+		{% else %}
+			{% break %}
+		{% endif %}
+   	{% endfor %}
+
+  <hr class="style-one" />
+  <div>
+	{% if paper.start != nil %}	
+    <div class="sumTime2"> {{paper.start}} - {{end}}</div>
+	{% endif %}
+    <div class="sumContent">{{paper.session}} {% if paper.chair != nil %}<div style="font-size:16px; padding-left:120px;">Chair: {{paper.chair}}</div>{%endif%}</div>
+  </div>
+  {% endif %}
+
+  {% if paper.title != nil %}
+  <div>
+	  {% if paper.start != nil %}
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+	  {% endif %}
+	<div class="ttile" style="{% if paper.start != nil %}padding-left:120px;{%endif%}padding-top:5px;">
+        <strong>
+	 {% if paper.type != nil %}[{{paper.type}}]{% endif %}
+	    {{paper.title}}
+        </strong>
+	</div>
+	  {% if paper.presenter != nil %}
+		<div class="sumDetail" {% if paper.start != nil %}style="padding-left:120px;"{%endif%}> <em>Speaker:</em> {{paper.presenter}}</div>
+	  {% endif %}
+          {% if paper.authors != nil %}
+		<div class="sumDetail" {% if paper.start != nil %}style="padding-left:120px;"{%endif%}> <em>Authors:</em> {{paper.authors}}</div>
+	  {% endif %}
+  </div>
+  {% endif %}
+  
+  {% assign prevSession = paper.session %}
+  
+{% endfor %}
+
+<hr class="style-one">
