@@ -20,7 +20,7 @@ FP 234,16:00,16:20,Spatial Data,Michael Krone,ClonArch: Visualizing the Spatial 
 120,17:00,17:10,Genomic & Network Data,Thomas Höllt,Grammar-Based Interactive Genome Visualization,"Kari Lavikka, Jaana Oikkonen, Rainer Lehtonen, Johanna Hynninen, Sakari Hietanen and Sampsa Hautaniemi",
 442,17:10,17:20,Genomic & Network Data,Thomas Höllt,Metabopolis: scalable network layout for biological pathway diagrams in urban map style,"Hsiang-Yun Wu, Martin Nöllenburg, Filipa L. Sousa and Ivan Viola",
 705,17:20,17:30,Genomic & Network Data,Thomas Höllt,Pantograph - Scalable Interactive Graph Genome Visualization,"Josiah Seaman, Simon Heumos and Eric Garrison",
-150,17:30,17:40,Genomic & Network Data,Thomas Höllt,Netviz: An R Shiny Application for Analyzing Regulatory Networks,Anthony Federico and Stefano Monti,
+150,17:30,17:40,Genomic & Network Data,Thomas Höllt,A framework for the analysis, visualization, and comparison of multiple multi-omics networks,Anthony Federico and Stefano Monti,
 219,17:40,17:50,Genomic & Network Data,Thomas Höllt,ProNetView-ccRCC: A web-based portal to interactively explore clear cell renal cell carcinoma proteogenomics networks,"Selim Kalayci, Francesca Petralia, Pei Wang and Zeynep Gümüş",
 478*,17:50,18:00,Genomic & Network Data,Thomas Höllt,Interactive Visual Pattern Search in Epigenomic Data,"Fritz Lekschas, Brant Peterson, Eric Ma, Nils Gehlenborg, and Hanspeter Pfister",
 ,18:00,18:15,Closing Session,Cagatay Turkay,Closing Remarks,,
@@ -40,6 +40,6 @@ FP 234,16:00,16:20,Spatial Data,Michael Krone,ClonArch: Visualizing the Spatial 
 ,,,Accepted Posters,,Grammar-Based Interactive Genome Visualization,"Kari Lavikka, Jaana Oikkonen, Rainer Lehtonen, Johanna Hynninen, Sakari Hietanen and Sampsa Hautaniemi"
 ,,,Accepted Posters,,Metabopolis: scalable network layout for biological pathway diagrams in urban map style,"Hsiang-Yun Wu, Martin Nöllenburg, Filipa L. Sousa and Ivan Viola"
 ,,,Accepted Posters,,Pantograph - Scalable Interactive Graph Genome Visualization,"Josiah Seaman, Simon Heumos and Eric Garrison"
-,,,Accepted Posters,,Netviz: An R Shiny Application for Analyzing Regulatory Networks,"Anthony Federico and Stefano Monti"
+,,,Accepted Posters,,A framework for the analysis, visualization, and comparison of multiple multi-omics networks,"Anthony Federico and Stefano Monti"
 ,,,Accepted Posters,,ProNetView-ccRCC: A web-based portal to interactively explore clear cell renal cell carcinoma proteogenomics networks,"Selim Kalayci, Francesca Petralia, Pei Wang and Zeynep Gümüş"
 ,,,Accepted Posters,,Interactive Visual Pattern Search in Epigenomic Data,"Fritz Lekschas, Brant Peterson, Eric Ma, Nils Gehlenborg, and Hanspeter Pfister"
