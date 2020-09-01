@@ -92,7 +92,7 @@ The top ranked submissions will be invited to present their work at Biovis, all 
 
 Submissions Open: June 1 2020
 
-Submission Closes: August  22th 2020 9PM PDT 
+Submission Closes: September 22th 2020 9PM PDT 
 
 Notification of Status: September 30th 2020
 
@@ -123,7 +123,7 @@ Additional submissions details to be released in May.
 
 Submissions Open: June 1 2020
 
-Submission Closes: August  22th 2020 9PM PDT 
+Submission Closes: September  22th 2020 9PM PDT 
 
 Notification of Status: September 30th 2020
 
