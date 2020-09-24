@@ -34,7 +34,7 @@ menu: main
 [Carolina Nobre](https://vdl.sci.utah.edu/team/nobre/), Harvard School of Engineering and Applied Sciences
 
 ## Steering Committee
-[Jessie Kennedy](http://www.iidi.napier.ac.uk/c/people/peopleid/41), Edinburgh Napier University, UK<br />
+[Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
 [G. Elisabeta Marai](https://www.evl.uic.edu/marai/), University of Illinois at Chicago, USA<br />
 [Kay Nieselt](http://it.inf.uni-tuebingen.de/), University of Tübingen, Germany<br />
 [Marc Streit](http://marc-streit.com/), Johannes Kepler University Linz, Austria<br />
