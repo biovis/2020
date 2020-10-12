@@ -1,0 +1,233 @@
+I",<div class="row">
+    <div class="blue-section col s12"> 
+	
+		<a href="/2020/ismb">
+			<div class="col s12 m4">
+				<div class="row event center-align">
+					<div class="col s12">
+						<img src="/2020/images/logos/ismb.svg" width="30%" />
+					</div>
+
+					<div class="col s12 event-details">
+						<div class="event-name">ISMB 2020 - Main Conference Event</div>
+						<div class="event-location">Montreal, Canada</div>
+						<div class="event-date">July 15, 2020</div>
+					</div>
+				</div>
+			</div>
+		</a>
+		
+		<a href="/2020/ieeevis">
+			<div class="col s12 m4">
+				<div class="row event center-align">
+					<div class="col s12">
+						<img src="/2020/images/logos/ieee.svg" width="30%" />
+					</div>
+
+					<div class="col s12 event-details">
+						<div class="event-name">IEEE VIS 2020 - Workshop</div>
+						<div class="event-location">Virtual Conference</div>
+						<div class="event-date">October 26, 2020</div>
+					</div>
+				</div>
+			</div>
+		</a>
+		
+		<div class="col s12 m4">
+			<div class="row event center-align">
+				<div class="col s12">
+					<img src="/2020/images/logos/dream.svg" width="20%" />
+				</div>
+
+				<div class="col s12 event-details">
+					<div class="event-name">Important Dates</div>
+					<div class="event-date">
+						<strong>ISMB COSI Date:</strong> July 15, 2020 <br />
+						<strong>ISMB Proceedings Paper Submission Deadline:</strong> 30 January, 2020 <br />
+						<strong>ISMB Talk Submission Deadline:</strong>  April 30, 2020 <br />
+						<strong>ISMB Poster Submission Deadline:</strong>  May 28, 2020 <br />
+						<a href="https://www.iscb.org/ismb2020-keydates" style="color:#2c3e50; text-decoration: underline;">See ISMB Key Dates for more details</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+        <div class="home-info-section col s12">
+              <p style="color: white;">The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research</p>
+        </div>
+
+        <div class="home-info-container col s12">
+        </div>
+		
+
+        <div class="blue-section col s12">
+        <div class="container">
+              <p class="hide-on-small-only">
+			  There are multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <a href="https://www.iscb.org/communities-of-special-interest">Community of Special Interest (COSI)</a> in July 15, 2020 in Montreal, Canada. A smaller workshop event will be held at <a href="http://ieeevis.org">IEEE VIS</a> in October 26, 2020 in Virtual Conference. Throughout the year, BioVis will also be hosting a DREAM challenge event. These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
+              </p>		  
+			  
+            
+
+<!--
+                <div class="col s12 m6">
+                <div class="row">
+                      <a href="/2020/ieeevis">
+                        <div class="col s12 eventSplit center-align">
+                            <div class="col s6 center-align">
+                              <span class="helper"></span><img src="/2020/images/logos/ieee.svg" width="70%">
+                            </div>
+                          <div class="col s6 event-details">
+                            <div class="event-name" style="text-align:left;">IEEE VIS 2019</div>
+                            <div class="event-subtitle" style="text-align:left;">Workshop</div>
+                            <div class="event-location" style="text-align:left;">Vancouver Canada</div>
+                            <div class="event-date" style="text-align:left;">October 2019</div>
+                          </div>
+                        </div>
+                      </a>
+                  </div>
+
+                  <div class="row">
+                  <a href="/2020/dream">
+                    <div class="row event center-align">
+                        <div class="col s6 center-align">
+                          <span class="helper"></span><img src="/2020/images/logos/dream.svg" style="vertical-align: middle;" width="70%">
+                        </div>
+                      <div class="col s6 event-details">
+                      <div class="event-name" style="text-align:left;">DREAM </div>
+                      <div class="event-subtitle" style="text-align:left;">SMC-RNA BioVis Data Visualization DREAM Challenge</div>
+                      </div>
+                    </div>
+                  </a>
+                  </div>
+                 </div>
+
+               
+                  <a href="/2020/dream">
+                  <div class="col s12 m4">
+                      <div class="row event center-align">
+                          <div class="col s12">
+                              <img src="/2020/images/logos/dream.svg" width="40%">
+                          </div>
+
+                          <div class="col s12 event-details">
+                              <div class="event-name">DREAM 2016</div>
+                              <div class="event-subtitle">SMC-RNA BioVis Data Visualization DREAM Challenge</div>
+
+                          </div>
+                      </div>
+                    </div>
+                    </a>
+                </div>
+-->
+                <!--
+                <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research. The workshops serve as a platform for researchers from these fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations.</p>
+                -->
+                </div>
+                </div>
+
+               
+
+                <!-- ADDING A NEWS FEED -->
+                <div class="row blue-section center-align">
+                    <div class="container">
+
+                        <div class="col s12 m12 center-align">
+                            <!-- <h4><i class="material-icons" style="font-size: .9em">announcement</i> News</h4> -->
+                            <h4> News </h4>
+                        </div>
+
+                          <div class="col s12 m12">
+                             <ul class="post-list">
+                                 
+                                   
+                                   <li class="col s12 m12 l12">
+                                        <div class="post-list-item">
+
+                                       <span class="type ismb">
+                                            
+                                                <a href="/2020/ismb">@ ISMB</a>
+                                            
+                                        </span>
+
+                                        <span class="post-list-title">
+                                            15 Jun 2020
+                                        </span>
+                                        <h4><a class="post-list-link" href="/2020/ismb/2020/06/15/program.html">BioVis 2020 Program</a></h4>
+                                        <span class="post-list-excerpt">
+                                            <p>The BioVis 2020 program is now available <a href="http://biovis.net/2020/program_ismb/">here</a>.</p>
+
+                                        </span>     
+                                        </div>
+                                  </li>
+
+                                 
+                                   
+                                   <li class="col s12 m12 l12">
+                                        <div class="post-list-item">
+
+                                       <span class="type ismb">
+                                            
+                                                <a href="/2020/ismb">@ ISMB</a>
+                                            
+                                        </span>
+
+                                        <span class="post-list-title">
+                                            14 Apr 2020
+                                        </span>
+                                        <h4><a class="post-list-link" href="/2020/ismb/2020/04/14/covid.html">BioVis@ISMB2020 is going virtual</a></h4>
+                                        <span class="post-list-excerpt">
+                                            <p>BioVis@ISMB2020 will be held as a virtual event along with the wider ISMB2020 conference, further details can be found on ISMB 2020 webpage <a href="https://www.iscb.org/ismb2020">here</a>.</p>
+
+                                        </span>     
+                                        </div>
+                                  </li>
+
+                                 
+                                   
+                                   <li class="col s12 m12 l12">
+                                        <div class="post-list-item">
+
+                                       <span class="type ismb">
+                                            
+                                                <a href="/2020/ismb">@ ISMB</a>
+                                            
+                                        </span>
+
+                                        <span class="post-list-title">
+                                            19 Dec 2019
+                                        </span>
+                                        <h4><a class="post-list-link" href="/2020/ismb/2019/12/19/call-for-participation.html">Call for Participation</a></h4>
+                                        <span class="post-list-excerpt">
+                                            <p>The BioVis 2020 CFP is now available <a href="http://biovis.net/2020/cfp_ismb/">here</a>.</p>
+
+                                        </span>     
+                                        </div>
+                                  </li>
+
+                                 
+                             </ul>
+                          </div>
+                    </div>
+                </div>
+
+                <!-- END ADDING A NEWS FEED -->
+
+                    <div class="row center-align">
+                    <div class="container">
+                        <div class="col s12 m12">
+
+                            <h4>Affiliates</h4>
+                            <p> BioVis 2020 is an official part of <a href="https://www.iscb.org/ismb2020">ISMB 2020</a></p>
+                            <p>    <a href="https://www.iscb.org">
+                                    <img src="/2020/images/sponsors/ISCB.jpg" alt="ISCB" />
+                                </a>
+                             </p>
+                             <br />
+                    </div>
+                </div>
+        </div>
+</div>
+:ET

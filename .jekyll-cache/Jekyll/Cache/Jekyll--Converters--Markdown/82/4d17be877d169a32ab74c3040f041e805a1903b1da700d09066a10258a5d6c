@@ -1,0 +1,151 @@
+I"k$<h2 id="biovis-challenges-workshop">BioVis Challenges Workshop</h2>
+<h2 id="at-ieee-vis-2020-salt-lake-city-utah">at IEEE VIS 2020, Salt Lake City, Utah</h2>
+
+<p>Note that to the evolving COVID-19 situation, it is possible that part or all of our workshop may transition to a virutal event. We are actively making preparations for such an eventuality.</p>
+
+<h3 id="aims-scope--objectives">Aims, Scope &amp; Objectives</h3>
+<p>The rapidly expanding field of biology creates enormous challenges for data visualization techniques that enable researchers to gain insight from their large and highly complex data sets.</p>
+
+<p>The BioVis Interest Group organizes this interdisciplinary workshop at IEEE VIS, covering aspects of visualization in biology. This workshop brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization.</p>
+
+<h3 id="challenge-formats">Challenge Formats</h3>
+<p>Researchers will have two opportunities to participate in this year’s Biovis Challenge. The first is a <strong>Data Challenge</strong> where researchers are tasked to visualize the a complex clinical dataset, the second opportunity is a <strong>Redesign Challenge</strong> where researchers have the opportunity to propose and present a redesign of a biological data visualization of their choosing.</p>
+
+<p>See a summary of our challenges and our expectations <a href="https://docs.google.com/presentation/d/1zd7L2fxpjmq_ujjbr4G7cCbu1MLHY9Cy6M4w-D5QR50/edit?usp=sharing">here</a></p>
+
+<ol>
+  <li><a href="#data-challenge">Data Challenge</a>
+    <ul>
+      <li><a href="#dataset">»Dataset</a></li>
+      <li><a href="#background-reading">»Background</a></li>
+      <li><a href="#submission">»Submission</a></li>
+      <li><a href="#submission">»Important Dates</a></li>
+    </ul>
+  </li>
+  <li><a href="#redesign-challenge">Redesign Challenge</a></li>
+</ol>
+
+<p><br /></p>
+<h4 id="data-challenge">&gt;Data Challenge</h4>
+
+<p>The majority of diseases that are a significant challenge for public and individual heath are caused by a combination of hereditary and environmental factors. Consequently, it can be challenging for domain experts to understand the full scope of the complexity that underly their data. Effective data visualization can help experts better understand their data and speed up their analyses. For this years challenge, we have a teamed up with biomedical researchers at the University of Utah to visualize a multidimensional clinical geneological dataset of suicide risk.</p>
+
+<p><em>Tasks</em>
+We are currently working it our collaborators to define a set of tasks that visualization reseachers and practitioners can tackle. Stay tuned for more details in the coming weeks.</p>
+
+<p><strong>To get updates about the Biovis data challenge, including the dataset release, sign up here:</strong> <a href="https://forms.gle/aiopkjYChP2PLbQG8">https://forms.gle/aiopkjYChP2PLbQG8</a></p>
+
+<p><br /></p>
+<h5 id="dataset">»<strong>Dataset</strong></h5>
+
+<p>This dataset contains a selection of 10 family trees in the Utah Population Database that exhibit a high incidences of suicide, as defined by their FSIR (Family Suicide Incidence Ratio).  The structure of these families is captured with mother and father relations for each individual. Each person in the datasets is also associated with a wide set of attributes, including demographic and clinical, information.  Demographic attributes include sex, birth date, and death date.   Clinical information includes whether they committed suicide, as well as a list of approximately 30 clinical conditions and how many times, if any, they were diagnosed with them.  Families vary in size from 100 to 500 individuals.</p>
+
+<p>Download the data here:</p>
+<ul>
+  <li>
+    <p><a href="https://drive.google.com/file/d/1zSwRYJziMcPXKYMAYQDEpGh49subdhT4/view?usp=sharing">Family Attributes</a></p>
+  </li>
+  <li>
+    <p><a href="https://drive.google.com/open?id=1U-82hL6LKsM19Vu_z5Z9ig4-MmRR0SkT">Family Structure</a></p>
+  </li>
+</ul>
+
+<p><br /></p>
+<h4 id="challenge-tasks">»<strong>Challenge Tasks</strong></h4>
+
+<ul>
+  <li>
+    <p>For a given target individual, identify similar cases, including how they are related amongst themselves (such as whether they co-occur in a given family)</p>
+  </li>
+  <li>
+    <p>Characterize the distribution of clinical attributes for suicide cases in families with high incidence ratios (high relative number of cases)</p>
+  </li>
+  <li>
+    <p>Characterize (i.e, the relationship between cases and their attributes) suicide cases in families with high incidences of a given clinical attribute (such as depression)</p>
+  </li>
+  <li>
+    <p>Compare clinical information for suicide cases with their immediate relatives (siblings, parents, and children).</p>
+  </li>
+</ul>
+
+<p><br /></p>
+<h5 id="background-reading">»<strong>Background Reading</strong></h5>
+
+<p>Our dataset comes from the following prior publication:</p>
+
+<blockquote>
+  <p>Lineage: Visualizing Multivariate Clinical Data in Genealogy Graphs
+Carolina Nobre, Nils Gehlenborg, Hilary Coon, Alexander Lex
+IEEE Transactions on Visualization and Computer Graphics 
+doi : <a href="10.1109/TVCG.2018.2811488}">10.1109/TVCG.2018.2811488}</a>
+url : <a href="http://sci.utah.edu/~vdl/papers/2018_tvcg_lineage.pdf">http://sci.utah.edu/~vdl/papers/2018_tvcg_lineage.pdf</a></p>
+</blockquote>
+
+<p><br /></p>
+<h5 id="submission">»<strong>Submission</strong></h5>
+
+<p>Submissions can be interactive applications or novel visual encodings. Regardless of what you choose, we encourage participants to share their work publicly. You can submit as many solutions as you like and you can work together in teams. All submissions will be assessed by our panel of experts.</p>
+
+<p>We will accept submissions via the <strong>two-page summary</strong> of their work in the VGTC conference two-column format in line with the IEEE VIS Posters’ formatting Guidelines: <a href="http://junctionpublishing.org/vgtc/Track/vis.html">http://junctionpublishing.org/vgtc/Track/vis.html</a> and use the poster format. Authors are also encouraged to provide a URL of their submission, which will be assessed at when all submissions are judged in August.</p>
+
+<p>The top ranked submissions will be invited to present their work at Biovis, all other submissions, assuming they meet a minimal acceptance critieria, will be accepted as posters.</p>
+
+<p><br /><br /></p>
+
+<h5 id="important-dates">»<strong>Important Dates</strong></h5>
+
+<p>Submissions Open: June 1 2020</p>
+
+<p>Submission Closes: September 22th 2020 9PM PDT</p>
+
+<p>Notification of Status: September 30th 2020</p>
+
+<!--- All submissions can be [submited here](https://docs.google.com/forms/d/e/1FAIpQLSeRo62uaJfndqYku53AYMuV33A5N4Oo_xhNkkRjevFmCYFuKA/viewform?usp=sf_link)
+
+-->
+
+<p>Submissions are closed for 2020</p>
+
+<p><br />
+<br /></p>
+<h4 id="redesign-challenge">&gt;Redesign Challenge</h4>
+
+<p>Have you seen a commonly used biomedical data visualization that could be a lot better? Do you have an example of a time you’ve redesigned a data visualization that improved engagement? If so, the redesign challenge is your opportunity to tell that story!</p>
+
+<p><strong>To receive additional notifications about our biovis redesign challenge please sign up here:</strong> <a href="https://forms.gle/dM7rqdfwTgq6R72C9">https://forms.gle/dM7rqdfwTgq6R72C9</a></p>
+
+<h5 id="submission-1">»<strong>Submission</strong></h5>
+
+<p>We invited members of the biomedical and data visualization research communities to submit a poster of their redesign process and outcomes. We will accept submissions via the two-page summary of their work in the VGTC conference two-column format in line with the IEEE VIS Posters’ formatting Guidelines: <a href="http://junctionpublishing.org/vgtc/Track/vis.html">http://junctionpublishing.org/vgtc/Track/vis.html</a></p>
+
+<p>The top ranked submissions will be invited to present their work at Biovis, all other submissions, assuming they meet a minimal acceptance critieria, will be accepted as posters.</p>
+
+<p>Additional submissions details to be released in May.</p>
+
+<p><br /><br /></p>
+
+<h5 id="important-dates-1">»<strong>Important Dates</strong></h5>
+
+<p>Submissions Open: June 1 2020</p>
+
+<p>Submission Closes: September  22th 2020 9PM PDT</p>
+
+<p>Notification of Status: September 30th 2020</p>
+
+<!-- All submissions can be [submited here](https://docs.google.com/forms/d/e/1FAIpQLSc7Vyspp8fxJNV6lwHX6BzNFrmH_9G6e0m5X1RDuoqY4P8HLQ/viewform?usp=sf_link) -->
+
+<p>Submissions are closed for 2020</p>
+
+<h3 id="past-biovis-challenges-workshops">Past BioVis Challenges Workshops</h3>
+
+<p><a href="http://biovis.net/2019/agenda_ieee/">2019 - BioVis Challenges Workshop @ IEEE VIS 2019</a>, Vancouver, Canada</p>
+
+<p><a href="http://biovis.net/2018/agenda_ieee/">2018 - BioVis Challenges Workshop @ IEEE VIS 2018</a>, Berlin, Germany</p>
+
+<p><a href="http://biovis.net/2017/agenda_ieee/">2017 - BioVis Challenges Workshop @ IEEE VIS 2017</a>, Phoenix, Arizona, US</p>
+
+<h3 id="workshop-organizers">Workshop Organizers</h3>
+
+<p>Anamaria Crisan, Tableau Research, USA (acrisan [at] tableau[dot] com)<br />
+Carolina Nobre, Harvard University, USA</p>
+:ET

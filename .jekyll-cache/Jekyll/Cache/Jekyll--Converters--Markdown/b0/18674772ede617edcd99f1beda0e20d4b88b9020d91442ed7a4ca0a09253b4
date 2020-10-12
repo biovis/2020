@@ -1,0 +1,725 @@
+I"=S<h2 id="biovisismb-2020-program">BioVis@ISMB 2020 Program</h2>
+
+<h3 id="july-15-2020">July 15, 2020</h3>
+
+<h2 id="invited-speakers">Invited Speakers</h2>
+
+<div class="talk">
+    <div class="ttitle">Visualization and Human-AI collaboration for biomedical tasks
+</div>
+    <div><span class="tspeaker"><a href="http://hendrik.strobelt.com">Hendrik Stobelt</a></span>, <span> IBM Research &amp; MIT </span></div>
+
+    <div class="tportrait"><img src="/2020/images/speakers/stobelt.png" style="width: 250px;" alt="Hendrik Stobelt" /></div>
+
+    <div class="tbioabstract" style="min-height: 270px"> 
+	
+	<!--<div class="tabstract"><b>Abstract:</b>TBA</div>-->
+	
+	<div class="tbio"><b>Bio:</b>
+		Hendrik Strobelt is the Explainability Lead at the MIT-IBM Watson AI Lab and Research Scientist at IBM Research. His recent research is on visualization for and human collaboration with AI models to foster explainability and intuition. The majority of his work is for NLP models and generative models while he is advocating to utilize a mix of data modalities to solve real-world problems. His work is applied to tasks in machine learning, in NLP, in the biomedical domain, and chemistry. Hendrik joined IBM in 2017 after postdoctoral positions at Harvard SEAS and NYU Tandon. He received a Ph.D. (Dr. rer. nat.) from the University of Konstanz in computer science (Visualization) and holds an MSc (Diplom) in computer science from TU Dresden. He received multiple best paper/honorable mention awards at EuroVis, BioVis, VAST, and ACL Demo. He received the Lohrmann medal from TU Dresden as the highest student honor. Hendrik has served in program committees and organization committees for IEEE VIS, BioVis, EuroVis. He was the virtual chair for ICLR 2020. Hendrik is affiliated as visiting researcher with MIT CSAIL.
+	</div>
+    </div>
+</div>
+
+<p><a name="sheelagh"></a></p>
+<div class="talk">
+    <div class="ttitle">Machine Learning for Drug Repurposing</div>
+    <div><span class="tspeaker"><a href="https://dbmi.hms.harvard.edu/people/marinka-zitnik">Marinka Zitnik</a></span>, <span> Harvard Medical School </span></div>
+
+    <div class="tportrait"><img src="/2020/images/speakers/marinka-zitnik.jpg" style="width: 250px;" alt="Marinka Zitnik" />
+    </div>
+
+    <div class="tbioabstract" style="min-height: 310px">
+
+        <!--<div class="tabstract"><b>Abstract:</b>TBA</div>-->
+
+       <div class="tbio"><b>Bio:</b>
+		Marinka Zitnik is an Assistant Professor of Biomedical Informatics at Harvard Medical School. She is a computer scientist studying applied machine learning with a focus on challenges brought forward by data in science, medicine, and health. Dr. Zitnik joined Harvard Medical School in December 2019. Before that, she was a postdoctoral scholar in Computer Science at Stanford University working with Jure Leskovec. She was also a member of the Chan Zuckerberg Biohub at Stanford. She received Ph.D. in Computer Science from University of Ljubljana in 2015 while also researching at Imperial College London, University of Toronto, Baylor College of Medicine, and Stanford University. She received my bachelor’s degree in 2012 double majoring in computer science and mathematics. Her algorithms and methods have had a tangible impact, which has garnered interests of government, academic, and industry researchers and has put new tools in the hands of practitioners. Some of her methods are used by major biomedical institutions, including Baylor College of Medicine, Karolinska Institute, Stanford Medical School, and Massachusetts General Hospital. Her work received several best paper, poster, and research awards from the International Society for Computational Biology. She has recently been named a Rising Star in EECS by MIT and also a Next Generation in Biomedicine by The Broad Institute of Harvard and MIT, being the only young scientist who received such recognition in both EECS and Biomedicine.
+        </div>
+		<br />
+    </div>
+</div>
+
+<h2 id="program">Program</h2>
+
+<h4 id="please-note-that-all-the-times-listed-here-are-in-eastern-daylight-time">Please note that all the times listed here are in <strong>Eastern Daylight Time</strong>.</h4>
+
+<p><br /></p>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 7:45 - 9:15</div>
+	
+    <div class="sumContent">Poster Viewing </div>
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 7:45 - 9:15</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    See the list of posters below
+        </strong>
+	</div>
+	  
+          
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 10:40 - 11:40</div>
+	
+    <div class="sumContent">BioVis Opening &amp; Keynote <div style="font-size:16px; padding-left:120px;">Chair: Cagatay Turkay</div></div>
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 10:40 - 10:50</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    BioVis Opening
+        </strong>
+	</div>
+	  
+          
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 10:50 - 11:40</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Visualization and Human-AI collaboration for biomedical tasks
+        </strong>
+	</div>
+	  
+		<div class="sumDetail" style="padding-left:120px;"> <em>Speaker:</em> Hendrik Strobelt</div>
+	  
+          
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 11:40 - 12:00</div>
+	
+    <div class="sumContent">Break </div>
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 12:00 - 12:40</div>
+	
+    <div class="sumContent">Single Cell/High Dimensional Data <div style="font-size:16px; padding-left:120px;">Chair: Jan Aerts</div></div>
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 12:00 - 12:10</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    bio_embeddings: python pipeline for fast visualization of protein features extracted by language models
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Christian Dallago, Michael Heinzinger, Tobias Olenyi, Ahmed Elnaggar and Burkhard Rost</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 12:10 - 12:20</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Grid-Constrained Dimensionality-Reduction for Single-Cell RNA-Seq Summarization
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Jon Hill and Di Feng</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 12:20 - 12:30</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    RNA-Scoop: interactive visualization of isoforms in single-cell transcriptomes
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Maria Stephenson, Ka Ming Nip, Saber Hafezqorani, Chen Yang, René Warren and İnanç Birol</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 12:30 - 12:40</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    ImaCytE: Visual Exploration of Cellular Micro-environments for Imaging Mass Cytometry Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Antonios Somarakis, Vincent van Unen, Frits Koning, Boudewijn Lelieveldt and Thomas Höllt</div>
+	  
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 12:40 - 14:00</div>
+	
+    <div class="sumContent">Break </div>
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 14:00 - 15:00</div>
+	
+    <div class="sumContent">BioVis Keynote <div style="font-size:16px; padding-left:120px;">Chair: Kay Nieselt</div></div>
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 14:00 - 15:00</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Machine Learning for Drug Repurposing
+        </strong>
+	</div>
+	  
+		<div class="sumDetail" style="padding-left:120px;"> <em>Speaker:</em> Marinka Zitnik</div>
+	  
+          
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 15:00 - 15:20</div>
+	
+    <div class="sumContent">Break </div>
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 15:20 - 16:40</div>
+	
+    <div class="sumContent">Spatial Data <div style="font-size:16px; padding-left:120px;">Chair: Michael Krone</div></div>
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 15:20 - 15:40</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Interactive visualization and analysis of morphological skeletons of brain vasculature networks with VessMorphoVis
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Marwan Abdellah, Nadir Román Guerrero, Samule Lapere, Jay S. Coggan, Benoit Coste, Snigdha Dagaer, Daniel Keller, Jean-Denis Courcol, Henry Markram and Felix Schurmann</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 15:40 - 15:50</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Multi-Scale Procedural Animations of Microtubule Dynamics Based on Measured Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Tobias Klein, Ivan Viola, M. Eduard Gröller and Peter Mindek</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 15:50 - 16:00</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Towards an Immersive Analytics Application for Anatomical Fish Brain Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Dimitar Garkov, Etienne Lein, Christian Dullin, Karsten Klein, Alex Jordan, Falk Schreiber and Bjorn Sommer</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 16:00 - 16:20</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    ClonArch: Visualizing the Spatial Clonal Architecture of Tumors
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Jiaqi Wu and Mohammed El-Kebir</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 16:20 - 16:30</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    A Web-based Framework for the Exploration of Heterogeneous Spatial Big Brain Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Florian Ganglberger, Joanna Kaczanowska, Wulf Haubensak and Katja Bühler</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 16:30 - 16:40</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    PhenoPlot-v2 a flexible tool for visualising microscopy data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Heba Sailem</div>
+	  
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 16:40 - 17:00</div>
+	
+    <div class="sumContent">Break </div>
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 17:00 - 18:00</div>
+	
+    <div class="sumContent">Genomic &amp; Network Data <div style="font-size:16px; padding-left:120px;">Chair: Thomas Höllt</div></div>
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 17:00 - 17:10</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Grammar-Based Interactive Genome Visualization
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Kari Lavikka, Jaana Oikkonen, Rainer Lehtonen, Johanna Hynninen, Sakari Hietanen and Sampsa Hautaniemi</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 17:10 - 17:20</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Metabopolis: scalable network layout for biological pathway diagrams in urban map style
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Hsiang-Yun Wu, Martin Nöllenburg, Filipa L. Sousa and Ivan Viola</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 17:20 - 17:30</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Pantograph - Scalable Interactive Graph Genome Visualization
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Josiah Seaman, Simon Heumos and Eric Garrison</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 17:30 - 17:40</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    A framework for the analysis, visualization, and comparison of multiple multi-omics networks
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Anthony Federico and Stefano Monti</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 17:40 - 17:50</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    ProNetView-ccRCC: A web-based portal to interactively explore clear cell renal cell carcinoma proteogenomics networks
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Selim Kalayci, Francesca Petralia, Pei Wang and Zeynep Gümüş</div>
+	  
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 17:50 - 18:00</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Interactive Visual Pattern Search in Epigenomic Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> Fritz Lekschas, Brant Peterson, Eric Ma, Nils Gehlenborg, and Hanspeter Pfister</div>
+	  
+  </div>
+
+<hr class="style-one" />
+
+<div>
+		
+    <div class="sumTime2"> 18:00 - 18:15</div>
+	
+    <div class="sumContent">Closing Session <div style="font-size:16px; padding-left:120px;">Chair: Cagatay Turkay</div></div>
+  </div>
+
+<div>
+	  
+      <div class="sumTime" style="padding-top:5px;"> 18:00 - 18:15</div>
+	  
+	<div class="ttile" style="padding-left:120px;padding-top:5px;">
+        <strong>
+	 
+	    Closing Remarks
+        </strong>
+	</div>
+	  
+          
+  </div>
+
+<hr class="style-one" />
+
+<div>
+	
+    <div class="sumContent">Accepted Posters </div>
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    FlyMet: An online metabolomics atlas and user-friendly resource for Drosophila tissues
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Karen McLuskey, Sue Ann Krause, Joe Wandy, Shireen Davies, Karl Burgess, Julian Dow and Rónán Daly</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Scaling Visual Analytics of Clinical Event Sequence Data through Interactive State Identification
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Qianwen Wang, Theresa Harbig, Sabrina Nusrat, Tali Mazor, Ethan Cerami and Nils Gehlenborg</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Cistrome Explorer: Web-based Interactive Visualization Tool for Exploring Epigenomics Data with Associated Metadata
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Sehi L'Yi, Mark Keller, Chen-Hao Chen, Xiaole Shirley Liu, Cliff Meyer and Nils Gehlenborg</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Modular Visualization of Spatial Single-Cell Omics Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Trevor Manz, Ilan Gold, Chuck McCallum, Mark Keller, Peter Kharchenko and Nils Gehlenborg</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    SwissBioPics – an interactive library of cell images for the visualization of subcellular location data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Philippe Le Mercier, Jerven Bolleman, Edouard de Castro, Parit Bansal, Elisabeth Gasteiger, Andrea Auchincloss, Emmanuel Boutet, Lionel Breuza, Cristina Casals Casas, Anne Estreicher, Marc Feuermann, Damien Lieberherr, Catherine Rivoire, Ivo Pedruzzi, Nicole Redaschi and Alan Bridge</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    bio_embeddings: python pipeline for fast visualization of protein features extracted by language models
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Christian Dallago, Michael Heinzinger, Tobias Olenyi, Ahmed Elnaggar and Burkhard Rost</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Grid-Constrained Dimensionality-Reduction for Single-Cell RNA-Seq Summarization
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Jon Hill and Di Feng</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    RNA-Scoop: interactive visualization of isoforms in single-cell transcriptomes
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Maria Stephenson, Ka Ming Nip, Saber Hafezqorani, Chen Yang, René Warren and İnanç Birol</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    ImaCytE: Visual Exploration of Cellular Micro-environments for Imaging Mass Cytometry Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Antonios Somarakis, Vincent van Unen, Frits Koning, Boudewijn Lelieveldt and Thomas Höllt</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Multi-Scale Procedural Animations of Microtubule Dynamics Based on Measured Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Tobias Klein, Ivan Viola, M. Eduard Gröller and Peter Mindek</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Towards an Immersive Analytics Application for Anatomical Fish Brain Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Dimitar Garkov, Etienne Lein, Christian Dullin, Karsten Klein, Alex Jordan, Falk Schreiber and Bjorn Sommer</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    A Web-based Framework for the Exploration of Heterogeneous Spatial Big Brain Data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Florian Ganglberger, Joanna Kaczanowska, Wulf Haubensak and Katja Bühler</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    PhenoPlot-v2 a flexible tool for visualising microscopy data
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Heba Sailem</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Grammar-Based Interactive Genome Visualization
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Kari Lavikka, Jaana Oikkonen, Rainer Lehtonen, Johanna Hynninen, Sakari Hietanen and Sampsa Hautaniemi</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Metabopolis: scalable network layout for biological pathway diagrams in urban map style
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Hsiang-Yun Wu, Martin Nöllenburg, Filipa L. Sousa and Ivan Viola</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    Pantograph - Scalable Interactive Graph Genome Visualization
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Josiah Seaman, Simon Heumos and Eric Garrison</div>
+	  
+  </div>
+
+<div>
+	  
+	<div class="ttile" style="padding-top:5px;">
+        <strong>
+	 
+	    ProNetView-ccRCC: A web-based portal to interactively explore clear cell renal cell carcinoma proteogenomics networks
+        </strong>
+	</div>
+	  
+          
+		<div class="sumDetail"> <em>Authors:</em> Selim Kalayci, Francesca Petralia, Pei Wang and Zeynep Gümüş</div>
+	  
+  </div>
+
+<hr class="style-one" />
+
+:ET

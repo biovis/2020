@@ -1,0 +1,41 @@
+I"Ú<div class="row center-align">
+
+    <div class="col m6 s12 event-page-menu-block">
+        <i class="material-icons large">create</i>
+        <h3>BioVis Challenges</h3>
+        <a class="btn waves-effect waves-light" href="/2020/biovisChallenges_vis" type="submit" name="action">View Details</a>
+    </div>
+
+    <div class="col m6 s12 event-page-menu-block">
+        <i class="material-icons large">list</i>
+        <h3>Program</h3>
+        <a class="btn waves-effect waves-light" href="/2020/program_ieee" type="submit" name="action">View Details</a>
+    </div>
+</div>
+
+<p><br />
+<br /></p>
+
+<div class="row left-align">
+    <div class="col s12 m6">
+        <h4>Important Dates</h4>
+        <p>Workshop date: October 26, 2020</p>
+    </div>
+
+    <div class="col s12 m6">
+        <h4>Latest News</h4>
+        <ul class="post-list">
+         
+           
+            
+           
+           
+            
+           
+           
+            
+           
+         </ul>
+    </div>
+</div>
+:ET

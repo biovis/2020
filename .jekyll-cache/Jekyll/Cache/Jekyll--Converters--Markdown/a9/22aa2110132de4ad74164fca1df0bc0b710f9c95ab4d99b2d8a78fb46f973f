@@ -1,0 +1,33 @@
+I"~<ol>
+  <li><a href="#scope">Aims and Scope</a></li>
+  <li><a href="#topics">Topics</a></li>
+</ol>
+
+<h2 id="scope">Aims and Scope</h2>
+<p>The rapidly expanding field of biology creates enormous challenges for data visualization techniques that enable researchers to gain insight from their large and highly complex data sets.</p>
+
+<p>The BioVis Interest Group organizes the interdisciplinary event BioVis, covering all aspects of visualization in biology. This workshop brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization as well as bioinformatics and biology researchers in state-of-the-art visualization research.</p>
+
+<p>We invite submissions of original research articles, poster submissions, as well as submissions for data visualization and redesign contests. <strong>Paper and Contest submissions can only be submitted to the BioVis workshop at VIS.</strong></p>
+
+<h2 id="topics">Topics</h2>
+<p>We invite contributions on all aspects of <strong>data visualization</strong> in biology, from molecular to cell, tissue, organism and population biology. Suggested topics for paper and poster submissions include, but are not limited to:</p>
+
+<ul>
+  <li>Genome and sequence data, including genomic variation data</li>
+  <li>Multivariate omics data (transcriptomics, proteomics, metabolomics, etc.)</li>
+  <li>Phylogenetic data</li>
+  <li>Biological networks and pathways</li>
+  <li>Biological ontologies</li>
+  <li>Macromolecular structures (e.g., protein or RNA structures)</li>
+  <li>Biological image data, such as microscopy data</li>
+  <li>Integration of image and omics data for systems biology</li>
+  <li>Modeling and simulation of biological systems</li>
+  <li>Neurobiology and developmental biology</li>
+  <li>Systems and software frameworks</li>
+  <li>Biological workflows or collaborative processes</li>
+  <li>Usability of visualization by biologists</li>
+  <li>Biological atlases and metadata</li>
+  <li>Processes for interdisciplinary collaboration between biology and visualization.</li>
+</ul>
+:ET

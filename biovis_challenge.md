@@ -96,7 +96,11 @@ Submission Closes: September 22th 2020 9PM PDT
 
 Notification of Status: September 30th 2020
 
-All submissions can be [submited here](https://docs.google.com/forms/d/e/1FAIpQLSeRo62uaJfndqYku53AYMuV33A5N4Oo_xhNkkRjevFmCYFuKA/viewform?usp=sf_link)
+<!--- All submissions can be [submited here](https://docs.google.com/forms/d/e/1FAIpQLSeRo62uaJfndqYku53AYMuV33A5N4Oo_xhNkkRjevFmCYFuKA/viewform?usp=sf_link)
+
+-->
+
+Submissions are closed for 2020
 
 <br>
 <br>
@@ -127,7 +131,9 @@ Submission Closes: September  22th 2020 9PM PDT
 
 Notification of Status: September 30th 2020
 
-All submissions can be [submited here](https://docs.google.com/forms/d/e/1FAIpQLSc7Vyspp8fxJNV6lwHX6BzNFrmH_9G6e0m5X1RDuoqY4P8HLQ/viewform?usp=sf_link)
+<!-- All submissions can be [submited here](https://docs.google.com/forms/d/e/1FAIpQLSc7Vyspp8fxJNV6lwHX6BzNFrmH_9G6e0m5X1RDuoqY4P8HLQ/viewform?usp=sf_link) -->
+
+Submissions are closed for 2020
 
 
 ### Past BioVis Challenges Workshops

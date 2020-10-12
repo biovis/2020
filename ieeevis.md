@@ -2,8 +2,8 @@
 layout: map_page
 logo: ieee.svg
 title: BioVis at IEEE VIS (BioVis@VIS)
-location: Salt Lake City, USA
-date: October 2020
+location: Virutal Conference
+date: October 26 2020
 main_venue_rln: In conjunction
 main_venue: IEEE VIS 2020
 main_venue_url: http://ieeevis.org/
@@ -21,7 +21,7 @@ permalink: /ieeevis/
     <div class="col m6 s12 event-page-menu-block">
         <i class="material-icons large">list</i>
         <h3>Program</h3>
-        <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/program_ieee" type="submit" name="action">View Details</a>
+        <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ieee" type="submit" name="action">View Details</a>
     </div>
 </div>
 
