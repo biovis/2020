@@ -7,10 +7,16 @@ back_url: ieeevis
 ---
 
 
+<br><br>
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3> Submission for the 2020 BioVis challenges are now closed. Check out all the great talks coming up at <a href = " {{site.baseurl}}/program_ieee" > our virutal event </a> on October 26th 2020 </h3>
+</div>
+
+
 ## BioVis Challenges Workshop 
 ## at IEEE VIS 2020, Salt Lake City, Utah
 
-Note that to the evolving COVID-19 situation, it is possible that part or all of our workshop may transition to a virutal event. We are actively making preparations for such an eventuality. 
+The BioVis Challenge will be virutal in 2020! See additional details on the [IEEE VIS 2020](http://ieeevis.org/year/2020/welcome) website (note, details will also likely be posted there closer to the start of VIS)
 
 
 ### Aims, Scope & Objectives
