@@ -129,7 +129,7 @@ back_url: ieeevis
  <div>
       <div class="sumTime" style="padding-top:5px;"> 10:45 - 10:50</div>
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <a href = "{{ site.baseurl}}/files/template - Romain Vuillemot.pdf" target=_ style="color:black;fontfact:bold;">[ Redesign Challenge ] The Sawtooh Chart for Compact Cumulative Data Visualization</a> <b></b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <a href = "{{ site.baseurl}}/files/template - Romain Vuillemot.pdf" target=_ style="color:black;fontfact:bold;">[ Redesign Challenge ] The Sawtooth Chart for Compact Cumulative Data Visualization</a> <b></b></div>
       </div>
       <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: Romain Vuillemot </em> </div>
   </div>
