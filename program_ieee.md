@@ -8,7 +8,7 @@ back_url: ieeevis
 
 ## BioVis@Vis 2020 Challenges Workshop Program
 
-**When:** Monday October 26nd, 2020, 8:00 - 11:30 AM (Mountain Time, UTC-7)
+**When:** Monday October 26th, 2020, 8:00 - 11:30 AM (Mountain Time, UTC-7)
 
 **Location:** Online (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
 
