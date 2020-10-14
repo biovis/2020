@@ -8,7 +8,7 @@ back_url: ieeevis
 
 ## BioVis@Vis 2020 Challenges Workshop Program
 
-**When:** Monday October 26nd, 2020, 8:00 - 11:30 AM (Mountain Time, UTC-7)
+**When:** Monday October 26th, 2020, 8:00 - 11:30 AM (Mountain Time, UTC-7)
 
 **Location:** Online (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
 
@@ -129,7 +129,7 @@ back_url: ieeevis
  <div>
       <div class="sumTime" style="padding-top:5px;"> 10:45 - 10:50</div>
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <a href = "{{ site.baseurl}}/files/template - Romain Vuillemot.pdf" target=_ style="color:black;fontfact:bold;">[ Redesign Challenge ] The Sawtooh Chart for Compact Cumulative Data Visualization</a> <b></b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <a href = "{{ site.baseurl}}/files/template - Romain Vuillemot.pdf" target=_ style="color:black;fontfact:bold;">[ Redesign Challenge ] The Sawtooth Chart for Compact Cumulative Data Visualization</a> <b></b></div>
       </div>
       <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: Romain Vuillemot </em> </div>
   </div>
