@@ -9,7 +9,7 @@ back_url: ieeevis
 
 <br><br>
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
-<h3> Submission for the 2020 BioVis challenges are now closed. Check out all the great talks coming up at <a href = " {{site.baseurl}}/program_ieee" > our virutal event </a> on October 26th 2020 </h3>
+<h3> Submission for the 2020 BioVis challenges are now closed. Check out all the great talks coming up at <a href = " {{site.baseurl}}/program_ieee" > our virtual event </a> on October 26th 2020 </h3>
 </div>
 
 
