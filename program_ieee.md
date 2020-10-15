@@ -122,7 +122,7 @@ back_url: ieeevis
       <div>
           <div class="ttile" style="padding-left:120px; padding-top:5px;"> <a href = "{{ site.baseurl}}/files/BioVis2020__Interactive_MA_plot - Ali Sheharyar.pdf" target=_ style="color:black;fontfact:bold;"> [ Redesign Challenge ] An Enhanced MA Plot with R-Shiny to Ease Exploratory Analysis of Transcriptomic Data</a> <b></b></div>
       </div>
-      <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: Ali Sheharyar</em> </div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: Michael Aupetit</em> </div>
   </div>
 
   <!-- REDESIGN CONTEST : Martin -->
