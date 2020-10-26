@@ -74,7 +74,7 @@ back_url: ieeevis
 
 <!-- DATA CHALLENGE SESSIONS -->
 <div>
-    <div class="sumTime2"> 10:00 - 11:30</div>
+    <div class="sumTime2"> 10:00 - 10:50</div>
     <div>
         <div class="sumContent">Data and Redesign Challenge Results<br></div>
         <div class="ttile" style="padding-left:120px; padding-top:5px;">
@@ -146,15 +146,17 @@ back_url: ieeevis
     </div>
 </div>
 <hr>
+<!-- 
 <div>
     <div class="sumTime2"> 12:15 - 12:20</div>
     <div>
         <div class="sumContent">Closing Remarks</div>
     </div>
     <!-- <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Ana & Cyndey</i> </div> -->
-    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
+    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> 
 </div>
 <hr>
+--->
 <br>
 
 
